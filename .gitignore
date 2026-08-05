@@ -17,6 +17,11 @@ ENV/
 .coverage
 htmlcov/
 
+# uv specific stuff
+uv.init
+uv.lock
+.python-version
+
 # OS junk
 .DS_Store
 Thumbs.db
