@@ -1,4 +1,4 @@
-Programming Assignment 0
+## Programming Assignment 0
 
 For all assignments, remember the following submission steps:
 - Make sure your code passes at least all the provided unit tests
