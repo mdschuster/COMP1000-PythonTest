@@ -1,6 +1,6 @@
-# Hello World Assignment
+Programming Assignment 0
 
-1. Open `hello.py` and add a print statement of your own below the existing one.
-2. Run `test_hello.py` (right-click → Run) to check the existing test still passes.
-3. Commit your change with a message describing what you did.
-4. Push to your GitHub repo.
+For all assignments, remember the following submission steps:
+- Make sure your code passes at least all the provided unit tests
+- Save, commit, and push all code changes
+- Confirm the latest code is visible via the “Files” section of your repository website
